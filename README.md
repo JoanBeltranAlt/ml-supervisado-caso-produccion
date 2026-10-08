@@ -76,9 +76,12 @@ Conjunto de prueba: 18 lotes (11 no defectuosos, 7 defectuosos).
 ## Cómo ejecutar el notebook
 
 **Opción 1: Google Colab**
-1. Abrir [Google Colab](https://colab.research.google.com/).
-2. `Archivo > Abrir notebook > GitHub`, pegar la URL de este repositorio y seleccionar `Caso_Produccion_ML_Supervisado.ipynb`.
-3. Ejecutar todas las celdas (`Entorno de ejecución > Ejecutar todas`).
+
+Abrir directamente el notebook en Colab con este enlace:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoanBeltranAlt/ml-supervisado-caso-produccion/blob/main/Caso_Produccion_ML_Supervisado.ipynb)
+
+Una vez abierto, ejecutar todas las celdas con `Entorno de ejecución > Ejecutar todas`.
 
 **Opción 2: Entorno local**
 ```bash
